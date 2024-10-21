@@ -4,11 +4,11 @@
 const IceCreammms = {
   language: [French, English],
   status: {
-                studying: "IT",
-                location: "France",
-                school: "IUT Vannes"
+                looking for: "apprenticeship",
+                location: "France, Nantes",
+                school: "ENI"
             },
-  interest: "I'm mainly interested in front end development"
+  interest: "I am a full stack developper with a particular liking towards design and  more specifically innovative front end designs"
 }
 ```
 
