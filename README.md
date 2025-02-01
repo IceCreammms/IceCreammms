@@ -25,7 +25,7 @@
  <img title="JS" height="25" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <p align=center>
   <div align=center>
