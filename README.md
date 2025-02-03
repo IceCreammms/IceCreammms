@@ -1,6 +1,6 @@
 # Hi, I'm IceCreammms! 👋
 
-<p align="center">
+<p align="left">
   I'm a Computer science student, in the software engineering and machine learning fields
   <br>
   <br>
@@ -8,7 +8,7 @@
   <br>
   🎓 I graduated from Vannes France University Institute of Technology (Bachelor's degree in Computer science
   <br>
-  - 🌱 I’m currently learning about building and fine tuning machine learning models
+  🌱 I’m currently learning about building and fine tuning machine learning models
   <br>
   📫 You can reach me through my email adress:  <a href="mailto: tan.sergent@gmail.com">tan.sergent@gmail.com</a>
 </p>
